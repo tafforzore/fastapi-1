@@ -5,7 +5,7 @@ Use this repo as a template to deploy a Python [FastAPI](https://fastapi.tiangol
 See https://render.com/docs/deploy-fastapi or follow the steps below:
 
 ## Manual Steps
-
+  
 1. You may use this repository directly or [create your own repository from this template](https://github.com/render-examples/fastapi/generate) if you'd like to customize the code.
 2. Create a new Web Service on Render.
 3. Specify the URL to your new repository or this repository.
